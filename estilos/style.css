@@ -27,6 +27,12 @@ img.lado {
     width: auto;
     height: auto;
 }
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    
+}
 img.topo {
     display: block;
     margin: auto;
